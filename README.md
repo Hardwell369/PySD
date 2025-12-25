@@ -1,5 +1,5 @@
 # Introduction
-PySD is a project used to detect SQL injection risks. It identifies potential SQL injection risks by analyzing the abstract syntax tree (AST) of the code.
+PySD is a project used to detect SQL injection risks for Python Web projects. It identifies potential SQL injection risks by analyzing the abstract syntax tree (AST) of the code.
 
 # Project Structure
 all source code is in the `src` directory.
