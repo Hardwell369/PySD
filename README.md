@@ -1,4 +1,7 @@
 # Introduction
+PySD is a project used to detect SQL injection risks. It identifies potential SQL injection risks by analyzing the abstract syntax tree (AST) of the code.
+
+# Project Structure
 all source code is in the `src` directory.
 - sql_detector.py: visit the AST of the input code and detect SQL injection risks.
 - scanner.py: scan the input code and return all SQL injection risks results.
